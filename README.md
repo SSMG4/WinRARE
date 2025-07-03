@@ -5,7 +5,7 @@ A WinRAR license key generator made in Python
 - The chances of getting a working license is pretty low (in the name WinRARE)
 - The tool can generate up to 100,000 license at once (might make your PC lag/bug when asking for lots of licenses)
 - The tool saves the licenses in the C:\ drive in the Downloads folder under the generated "RarRegKeys" folder
-- To add a license, put one inside WinRAR's program files (usually located in C:\Program Files\WinRAR)
+- To add a license, put one inside WinRAR's program files (usually located in C:\Program Files\WinRAR), just rename without numbers (like rarreg2.key to rarreg.key)
 
 ## Creating a Windows Executable
 To make a standalone `.exe`:
